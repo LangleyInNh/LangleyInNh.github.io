@@ -1,3 +1,7 @@
+# Site description from the config.yaml
+{{site.description}}
+
+
 # TestLogic Server #
 ## This page is for documenting TestLogic Server ##
 TestLogic server is a very cool program that does amazing things.
