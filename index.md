@@ -51,3 +51,5 @@ This is some **bold** text
 ## Inserting an Image ##
 
 ![image-title-here](git.png){:class="img-responsive"}
+
+{% include Installation.md %}
