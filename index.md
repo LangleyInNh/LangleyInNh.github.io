@@ -53,3 +53,12 @@ This is some **bold** text
 ![image-title-here](git.png){:class="img-responsive"}
 
 {% include Installation.md %}
+
+## Syntax Highlighting ## 
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
